@@ -1,0 +1,46 @@
+D:\Мои проекты при надобности скопировать в source на диске C\TextDictionaryProject\TextDictionaryProject\bin\Debug\TextDictionaryProject.exe.config
+D:\Мои проекты при надобности скопировать в source на диске C\TextDictionaryProject\TextDictionaryProject\bin\Debug\TextDictionaryProject.exe
+D:\Мои проекты при надобности скопировать в source на диске C\TextDictionaryProject\TextDictionaryProject\bin\Debug\TextDictionaryProject.pdb
+D:\Мои проекты при надобности скопировать в source на диске C\TextDictionaryProject\TextDictionaryProject\bin\Debug\EntityFramework.dll
+D:\Мои проекты при надобности скопировать в source на диске C\TextDictionaryProject\TextDictionaryProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\Мои проекты при надобности скопировать в source на диске C\TextDictionaryProject\TextDictionaryProject\bin\Debug\EntityFramework.xml
+D:\Мои проекты при надобности скопировать в source на диске C\TextDictionaryProject\TextDictionaryProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\Мои проекты при надобности скопировать в source на диске C\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.csproj.AssemblyReference.cache
+D:\Мои проекты при надобности скопировать в source на диске C\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.csproj.SuggestedBindingRedirects.cache
+D:\Мои проекты при надобности скопировать в source на диске C\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.Form1.resources
+D:\Мои проекты при надобности скопировать в source на диске C\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.Properties.Resources.resources
+D:\Мои проекты при надобности скопировать в source на диске C\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.csproj.GenerateResource.cache
+D:\Мои проекты при надобности скопировать в source на диске C\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.csproj.CoreCompileInputs.cache
+D:\Мои проекты при надобности скопировать в source на диске C\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.csproj.CopyComplete
+D:\Мои проекты при надобности скопировать в source на диске C\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.exe
+D:\Мои проекты при надобности скопировать в source на диске C\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.pdb
+C:\Users\vakar\OneDrive\Рабочий стол\TextDictionaryProject\TextDictionaryProject\bin\Debug\TextDictionaryProject.exe.config
+C:\Users\vakar\OneDrive\Рабочий стол\TextDictionaryProject\TextDictionaryProject\bin\Debug\TextDictionaryProject.exe
+C:\Users\vakar\OneDrive\Рабочий стол\TextDictionaryProject\TextDictionaryProject\bin\Debug\TextDictionaryProject.pdb
+C:\Users\vakar\OneDrive\Рабочий стол\TextDictionaryProject\TextDictionaryProject\bin\Debug\EntityFramework.dll
+C:\Users\vakar\OneDrive\Рабочий стол\TextDictionaryProject\TextDictionaryProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vakar\OneDrive\Рабочий стол\TextDictionaryProject\TextDictionaryProject\bin\Debug\EntityFramework.xml
+C:\Users\vakar\OneDrive\Рабочий стол\TextDictionaryProject\TextDictionaryProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vakar\OneDrive\Рабочий стол\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.csproj.AssemblyReference.cache
+C:\Users\vakar\OneDrive\Рабочий стол\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.Form1.resources
+C:\Users\vakar\OneDrive\Рабочий стол\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.Properties.Resources.resources
+C:\Users\vakar\OneDrive\Рабочий стол\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.csproj.GenerateResource.cache
+C:\Users\vakar\OneDrive\Рабочий стол\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.csproj.CoreCompileInputs.cache
+C:\Users\vakar\OneDrive\Рабочий стол\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.csproj.CopyComplete
+C:\Users\vakar\OneDrive\Рабочий стол\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.exe
+C:\Users\vakar\OneDrive\Рабочий стол\TextDictionaryProject\TextDictionaryProject\obj\Debug\TextDictionaryProject.pdb
+C:\Users\vakar\OneDrive\Рабочий стол\Тестовое\TextDictionaryProjectFinal\TextDictionaryProject\bin\Debug\TextDictionaryProject.exe.config
+C:\Users\vakar\OneDrive\Рабочий стол\Тестовое\TextDictionaryProjectFinal\TextDictionaryProject\bin\Debug\TextDictionaryProject.exe
+C:\Users\vakar\OneDrive\Рабочий стол\Тестовое\TextDictionaryProjectFinal\TextDictionaryProject\bin\Debug\TextDictionaryProject.pdb
+C:\Users\vakar\OneDrive\Рабочий стол\Тестовое\TextDictionaryProjectFinal\TextDictionaryProject\bin\Debug\EntityFramework.dll
+C:\Users\vakar\OneDrive\Рабочий стол\Тестовое\TextDictionaryProjectFinal\TextDictionaryProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vakar\OneDrive\Рабочий стол\Тестовое\TextDictionaryProjectFinal\TextDictionaryProject\bin\Debug\EntityFramework.xml
+C:\Users\vakar\OneDrive\Рабочий стол\Тестовое\TextDictionaryProjectFinal\TextDictionaryProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vakar\OneDrive\Рабочий стол\Тестовое\TextDictionaryProjectFinal\TextDictionaryProject\obj\Debug\TextDictionaryProject.csproj.AssemblyReference.cache
+C:\Users\vakar\OneDrive\Рабочий стол\Тестовое\TextDictionaryProjectFinal\TextDictionaryProject\obj\Debug\TextDictionaryProject.Form1.resources
+C:\Users\vakar\OneDrive\Рабочий стол\Тестовое\TextDictionaryProjectFinal\TextDictionaryProject\obj\Debug\TextDictionaryProject.Properties.Resources.resources
+C:\Users\vakar\OneDrive\Рабочий стол\Тестовое\TextDictionaryProjectFinal\TextDictionaryProject\obj\Debug\TextDictionaryProject.csproj.GenerateResource.cache
+C:\Users\vakar\OneDrive\Рабочий стол\Тестовое\TextDictionaryProjectFinal\TextDictionaryProject\obj\Debug\TextDictionaryProject.csproj.CoreCompileInputs.cache
+C:\Users\vakar\OneDrive\Рабочий стол\Тестовое\TextDictionaryProjectFinal\TextDictionaryProject\obj\Debug\TextDictionaryProject.csproj.CopyComplete
+C:\Users\vakar\OneDrive\Рабочий стол\Тестовое\TextDictionaryProjectFinal\TextDictionaryProject\obj\Debug\TextDictionaryProject.exe
+C:\Users\vakar\OneDrive\Рабочий стол\Тестовое\TextDictionaryProjectFinal\TextDictionaryProject\obj\Debug\TextDictionaryProject.pdb
